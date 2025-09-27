@@ -77,11 +77,11 @@ Security-Assessment-itsecgames/
 ## Report Contents  
 The attached reports provide detailed findings:  
  
-- Screenshots folder – raw outputs from supporting tools  
+- Screenshots uploaded with reports
 
 ---
 
-## Recommended Next Steps (for Site Owner)  
+## Recommended Next Steps
 
 1. **Enforce HTTPS & HSTS** – Redirect all HTTP traffic to HTTPS and implement HSTS.  
 2. **Patch & Update** – Upgrade **OpenSSH** and Apache to latest stable versions.  
